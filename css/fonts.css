@@ -1,0 +1,56 @@
+/*! Fonts include. (fonts.css) | @author webtitov.ru */
+
+/* Light */
+@font-face {
+  font-family: 'Mont';
+  src: url('fonts/Mont-Light.eot');
+  src: local('Mont'), local('Mont-Light'),
+  url('fonts/Mont-Light.eot?#iefix') format('embedded-opentype'),
+  url('fonts/Mont-Light.woff') format('woff'),
+  url('fonts/Mont-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* schwartz icons */
+@font-face {
+  font-family: "schwartz";
+  font-weight: normal;
+  font-style: normal;
+  src: url("fonts/schwartz.eot");
+  src: url("fonts/schwartz.eot#iefix") format("embedded-opentype"),
+  url("fonts/schwartz.woff2") format("woff2"),
+  url("fonts/schwartz.woff") format("woff"),
+  url("fonts/schwartz.ttf") format("truetype"),
+  url("fonts/schwartz.svg#schwartz") format("svg");
+  font-display: swap
+}
+
+/* Proxima Nova */
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: normal;
+  font-style: normal;
+  src: url("fonts/proximanova-regular.woff2") format("woff2"),
+  url("fonts/proximanova-regular.woff") format("woff");
+  font-display: swap
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: 500;
+  font-style: normal;
+  src: url("fonts/proximanova-medium.woff2") format("woff2"),
+  url("fonts/proximanova-medium.woff") format("woff");
+  font-display: swap
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  src: url("fonts/proximanova-bold.woff2") format("woff2"),
+  url("fonts/proximanova-bold.woff") format("woff");
+  font-display: swap
+}

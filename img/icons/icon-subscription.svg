@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Plus_symbol</title>
+    <g id="Skroutz-+" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-orders-page---L----Active" transform="translate(-191.000000, -228.000000)" fill-rule="nonzero">
+            <g id="Profile-Card" transform="translate(31.000000, 162.000000)">
+                <g id="Profile_image" transform="translate(79.000000, 32.000000)">
+                    <g id="Plus_symbol" transform="translate(81.000000, 34.000000)">
+                        <path d="M16.59,0.96 C9.54,0.96 3.88,6.91 3.88,13.88 L3.88,17.6 C3.88,20.5 2.93,23.31 1.18,25.62 L0.91,25.98 L0.9,26 L0.61,26.37 C-0.05,27.22 0.55,28.45 1.63,28.45 L5.82,28.45 C21.83,28.45 29.59,23.13 29.59,13.68 C29.59,6.55 23.56,0.96 16.59,0.96 Z" id="Path" fill="#541DC9"></path>
+                        <path d="M21.77,12.38 L18.16,12.38 L18.16,8.78 C18.16,8.07 17.58,7.49 16.87,7.49 L16.21,7.49 C15.5,7.49 14.92,8.07 14.92,8.78 L14.92,12.39 L11.31,12.39 C10.6,12.39 10.02,12.97 10.02,13.68 L10.02,14.34 C10.02,15.05 10.6,15.63 11.31,15.63 L14.92,15.63 L14.92,19.24 C14.92,19.95 15.5,20.53 16.21,20.53 L16.87,20.53 C17.58,20.53 18.16,19.95 18.16,19.24 L18.16,15.63 L21.77,15.63 C22.48,15.63 23.06,15.05 23.06,14.34 L23.06,13.68 C23.06,12.96 22.49,12.38 21.77,12.38 Z" id="Path" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
