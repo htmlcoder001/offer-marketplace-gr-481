@@ -74,6 +74,13 @@
     grid-gap: 24px;
   }
   
+  .card-media__banner {
+    width: 200px;
+    height: 200px;
+    left: -60px;
+    top: -30px;
+  }
+  
 }
 
 @media (max-width: 768px) {
@@ -98,6 +105,10 @@
   }
   .stores-item__avatar {
     padding-bottom: 16px;
+  }
+  
+  .card-media__banner {
+    left: 0;
   }
 }
 
@@ -142,9 +153,19 @@
     flex-direction: column;
     align-items: center;
   }
+  .card-media__banner {
+    left: -50px;
+    width: 170px;
+    height: 170px;
+  }
 }
 
 /* Phone - 320px */
 @media (max-width: 374px) {
-
+  .card-media__banner {
+    left: -40px;
+    top: -10px;
+    width: 120px;
+    height: 120px;
+  }
 }
